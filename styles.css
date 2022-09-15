@@ -1,20 +1,15 @@
 body {
 
-    font-size: 14pt;
-    
+    font: 14pt;
     font-family: 'Work Sans', sans-serif;
-    
     font-weight: 'Light';
-  
-    color: black;
-  
+    color: whitesmoke;
+    background-color: rgb(32, 32, 32);
     line-height: 14pt;
-  
     padding-left: 5pt;
-  
     padding-right: 5pt;
-  
     padding-top: 5pt;
+    
   
   }
   
@@ -22,12 +17,9 @@ body {
   
   h1 {
   
-    font: 28pt;
-    
+    font: 100pt;
     font-family: 'Work Sans', sans-serif;
-    
     font-weight: 'Semibold';
-  
     line-height: 20pt;
   
   }
@@ -36,11 +28,8 @@ body {
   h2 {
   
     font: 22pt;
-    
     font-family: Work Sans, sans-serif;
-    
     font-weight: 'Semibold';
-  
     line-height: 20pt;
   
   }
@@ -49,11 +38,29 @@ body {
   h3 {
   
     font: 20pt;
-    
     font-family: Work Sans, sans-serif;
-    
     font-weight: 'Semibold';
-  
     line-height: 20pt;
   
+  }
+
+  p {
+
+    font: 16pt;
+    line-height: 20pt;
+
+  }
+
+  section{
+
+    padding: 10px 0px;
+    margin: 0;
+    max-width: none;
+
+  }
+
+  .content {
+    max-width: 500px;
+    margin: auto;
+
   }
