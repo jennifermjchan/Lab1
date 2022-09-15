@@ -1,0 +1,59 @@
+body {
+
+    font-size: 14pt;
+    
+    font-family: 'Work Sans', sans-serif;
+    
+    font-weight: 'Light';
+  
+    color: black;
+  
+    line-height: 14pt;
+  
+    padding-left: 5pt;
+  
+    padding-right: 5pt;
+  
+    padding-top: 5pt;
+  
+  }
+  
+  
+  
+  h1 {
+  
+    font: 28pt;
+    
+    font-family: 'Work Sans', sans-serif;
+    
+    font-weight: 'Semibold';
+  
+    line-height: 20pt;
+  
+  }
+  
+  
+  h2 {
+  
+    font: 22pt;
+    
+    font-family: Work Sans, sans-serif;
+    
+    font-weight: 'Semibold';
+  
+    line-height: 20pt;
+  
+  }
+  
+  
+  h3 {
+  
+    font: 20pt;
+    
+    font-family: Work Sans, sans-serif;
+    
+    font-weight: 'Semibold';
+  
+    line-height: 20pt;
+  
+  }
