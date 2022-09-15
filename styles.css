@@ -12,7 +12,7 @@ body {
   
   
   h1 {
-    font-size: 44pt;
+    font-size: 52pt;
     font-family: 'Work Sans', sans-serif;
     font-weight: 'Semibold';
     line-height: 20pt;
@@ -68,7 +68,6 @@ body {
   .content {
     max-width: 500px;
     margin: auto;
-
   }
 
 
@@ -81,4 +80,22 @@ body {
     border-radius: 3px;
     background-color: rgb(43, 42, 42);
     padding: 5px 30px;
+  }
+
+
+  input[type=button], input[type=submit], input[type=reset] {
+    width: 100%;
+    border: solid;
+    border-color: turquoise;
+    border-width: 1px;
+    border-radius: 5px;
+    background-color: rgb(43, 42, 42);
+    color: turquoise;
+    padding: 16px 32px;
+    text-decoration: none;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 'Semibold';
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
   }
