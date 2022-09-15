@@ -83,6 +83,19 @@ body {
   }
 
 
+  input[type=text], select {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 'Semibold';
+    font-size: 16px;
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid rgb(136, 136, 136);
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+
+
   input[type=button], input[type=submit], input[type=reset] {
     width: 100%;
     border: solid;
