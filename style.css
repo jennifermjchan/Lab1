@@ -36,8 +36,18 @@ body {
 
 
   p {
-    font-size: 16pt;
+    font-size: 14pt;
     line-height: 20pt;
+  }
+
+
+  .fa-solid {
+    color: white;
+  }
+  
+
+  li {
+    line-height: 18pt;
   }
 
 
@@ -66,20 +76,24 @@ body {
 
 
   .content {
-    max-width: 500px;
-    margin: auto;
+    margin: 50px 450px 100px 100px;
+  }
+
+
+  div.lets-connect {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 300px;
+    height: 100vh;
+    padding: 40px;
+    border: none;
+    background-color: rgb(43, 42, 42);
   }
 
 
   img {
     border-radius: 10%;
-  }
-
-
-  section.form {
-    border-radius: 3px;
-    background-color: rgb(43, 42, 42);
-    padding: 5px 30px;
   }
 
 
