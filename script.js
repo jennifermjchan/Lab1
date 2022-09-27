@@ -7,4 +7,6 @@ window.onload = () => {
         event.preventDefault();
       });
 
+      console.log('hello')
+
 }
