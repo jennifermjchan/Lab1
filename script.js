@@ -5,6 +5,8 @@ window.onload = () => {
         const contactEmail = document.contactForm.email.value;
         window.alert(`Hi, ${contactName}! Is this the right email to reach you: ${contactEmail}?`);
         event.preventDefault();
+        console.log('testing');
+
       });
 
       console.log('hello')
